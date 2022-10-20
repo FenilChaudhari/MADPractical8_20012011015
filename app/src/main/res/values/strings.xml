@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MADPRACTICAL8_20012011015</string>
+    <string name="alarm_desc">By Pressing The Buttons, Alarm can be created and Cancelled</string>
+    <string name="check_curTime">Check Real Time By Looking Below Real Digital Clock</string>
+</resources>
